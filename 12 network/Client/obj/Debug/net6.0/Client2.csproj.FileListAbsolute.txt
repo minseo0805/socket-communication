@@ -1,0 +1,15 @@
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\bin\Debug\net6.0\Client2.exe
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\bin\Debug\net6.0\Client2.deps.json
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\bin\Debug\net6.0\Client2.runtimeconfig.json
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\bin\Debug\net6.0\Client2.dll
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\bin\Debug\net6.0\Client2.pdb
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\obj\Debug\net6.0\Client2.csproj.AssemblyReference.cache
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\obj\Debug\net6.0\Client2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\obj\Debug\net6.0\Client2.AssemblyInfoInputs.cache
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\obj\Debug\net6.0\Client2.AssemblyInfo.cs
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\obj\Debug\net6.0\Client2.csproj.CoreCompileInputs.cache
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\obj\Debug\net6.0\Client2.dll
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\obj\Debug\net6.0\refint\Client2.dll
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\obj\Debug\net6.0\Client2.pdb
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\obj\Debug\net6.0\Client2.genruntimeconfig.cache
+C:\Users\minseo\Desktop\네트워크프로그래밍\12 network\12 network\Client\obj\Debug\net6.0\ref\Client2.dll
